@@ -45,6 +45,6 @@ We will choose one:
   * Framerate
   * [x] Move snake??
   * Check if collides with apple
-    * [ ] Grow snake
-    * [ ] Re-add apple at random
-* [ ] Dies if it collides with itself
+    * [x] Grow snake
+    * [x] Re-add apple at random
+* [x] Dies if it collides with itself
