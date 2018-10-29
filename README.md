@@ -25,15 +25,6 @@ We will choose one:
 * Webcam
 * Gamepad
 
-## Constrains
-
-We will choose one:
-
-* [x] Can only run the app once at the end
-* No Variables
-* Functions can be no longer than 2 lines
-* No dev tools
-
 ## Plan
 
 * [x] Create react app
